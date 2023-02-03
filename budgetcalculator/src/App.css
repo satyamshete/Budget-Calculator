@@ -1,0 +1,12 @@
+.full-page
+{
+  height: 100vh;
+  background-color: rgb(135, 153, 168);
+  border: 5px solid  rgb(135, 153, 168);
+}
+.template
+{
+  margin-top: 20vh;
+  align-items: center;
+  border: 5px solid  rgb(135, 153, 168);
+}

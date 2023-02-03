@@ -1,0 +1,69 @@
+.template-class
+{
+    width: 60%;
+    margin: auto;
+    
+}
+.charge-amount-class
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    
+}
+#charge, #amount
+{
+    display: block;
+}
+.submit-button, .heading-class
+{
+    
+    display: flex;
+    width: 10%;
+    margin: auto;
+    justify-content: center;
+}
+.heading-class
+{
+    width:40%;
+}
+.heading-class
+{
+    color: white;
+   
+}
+.main-class
+{
+    background-color: rgb(208, 226, 126);
+    border: radius 5px;
+}
+.show-expenditure{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(184, 179, 179);
+    margin: 10px;
+    padding: 0px;
+    height: 2.5em;
+    align-items: center;
+}
+input{
+    background-color: rgb(252, 249, 252);
+    color: rgb(30, 30, 33);
+}
+.alert-class
+{
+    text-align: center;
+    font-size: large;
+    width: 84%;
+    margin: auto;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.edit-delete-button{
+    display: flex;
+     width: 10%;
+    justify-content: space-around;
+}
